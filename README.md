@@ -14,7 +14,9 @@ The file/folder system is designed for [Obsidian.md](https://obsidian.md/) and [
 
 ## Getting Started
 
-See `00-Project-Management/System-Guide/` for comprehensive documentation on:
+**New to Arc Vault?** Start with [[GETTING-STARTED]] for a comprehensive guide to the framework and how to use each directory.
+
+For detailed system documentation, see `00-Project-Management/System-Guide/`:
 - How to use this vault structure - [[00-Introduction-to-Arc-Vault]]
 - File organization guidelines - [[01-File-Structure]]
 - Tagging system documentation - [[02-Tags]]
