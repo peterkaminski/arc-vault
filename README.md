@@ -8,7 +8,7 @@ The Arc Vault system is designed to manage multi-volume novel series development
 - Research and references
 - Cross-volume continuity tracking
 
-Download [Arc Vault as a zip file](https://github.com/YOUR-USERNAME/arc-vault/archive/refs/heads/main.zip).
+Download [Arc Vault as a zip file](https://github.com/peterkaminski/arc-vault/archive/refs/heads/main.zip).
 
 The file/folder system is designed for [Obsidian.md](https://obsidian.md/) and [Massive Wiki](https://massive.wiki/). For multi-device or teams, you can use Obsidian Sync (paid, easy) or Git (free, a little technical).
 
@@ -32,16 +32,18 @@ For detailed system documentation, see `00-Project-Management/System-Guide/`:
 - `60-Maps/`: Visual organization tools for tracking arcs, characters, and plots
 - `99-Templates/`: Standard templates for consistency
 
-## Arc Vault vs Prisma Vault
+## Sibling Frameworks
 
-Arc Vault is a sibling framework to [Prisma Vault](https://github.com/peterkaminski/prisma-vault), adapted for multi-volume novel writing:
+Arc Vault is one of three sibling frameworks for long-form writing projects, all dedicated to the public domain via CC0:
 
-- **Prisma Vault**: Designed for serialized fiction with episodes and seasons
-- **Arc Vault**: Designed for multi-volume novels with continuous narrative arcs
+- **[Arc Vault](https://github.com/peterkaminski/arc-vault)** — multi-volume novels with continuous narrative arcs
+- **[Prisma Vault](https://github.com/peterkaminski/prisma-vault)** — serialized fiction with episodes and seasons
+- **[Spectra Vault](https://github.com/peterkaminski/spectra-vault)** — nonfiction book development, organized around research, sources, and evidence
 
-Key differences:
-- Organized around **volumes** (books) rather than episodes
-- Focus on **manuscript development** rather than production
+Each emphasizes the structures and workflows specific to its form. Arc differs from its siblings by:
+
+- Organizing around **volumes** (books) rather than episodes or chapters of evidence
+- Focusing on **manuscript development** rather than production or research
 - Enhanced **continuity tracking** across volumes
 - **Character and plot arcs** spanning multiple books
 
